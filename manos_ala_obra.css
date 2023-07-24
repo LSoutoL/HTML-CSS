@@ -1,0 +1,86 @@
+
+*{
+    font-family: 'Dancing Script', cursive;
+    color:   rgba(147, 115, 181, 0.874);
+    font-size: medium;
+    text-emphasis-color: rgba(134, 91, 180, 0.874);
+    margin: 0.5cm;
+    text-align: center;
+    align-content: center;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    width: 100%;
+}
+h1 {
+    display: block;
+    font-size: 2.5cm;
+    text-align: center;
+    color: rgba(134, 91, 180, 0.874);
+    text-shadow: 0.01cm;
+}
+h2 {
+    font-size:0.5cm;
+}
+#enlace{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+section.main{
+    width: max-content;
+    display:inline-flex;
+    align-content:space-around;
+    background-color: rgb(228, 223, 232);
+    border-radius: 0.3cm;
+}
+div.primero {
+    text-align: center;
+    border-color:rgb(218, 213, 234);
+    border-width: 0.3cm;
+    list-style-type: disc;
+    background-color:rgb(190, 173, 206);
+    list-style-position:inside;
+    border-radius: 0.3cm;  
+}
+ {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-align-last: center;
+    color: rgba(134, 91, 180, 0.874);
+}
+div.flores {
+    text-align: center;
+    align-self: center;
+    background-color: rgba(242, 251, 115, 0.97);
+    box-shadow: 0.3em;
+    border-radius: 0.3cm;
+}
+
+.table {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+thead{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+table{
+    width: 93%;
+    border-radius: 0.3cm;
+    color: rgb(118, 52, 189);
+    border-color: rgb(64, 52, 76);
+    border-width: 1px;
+    border-style: double;
+}
+.form{
+    background-color: rgb(228, 223, 232);
+    border-radius: 0.3cm;
+    text-align: center;
+    align-content: center;
+}

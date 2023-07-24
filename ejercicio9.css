@@ -1,0 +1,48 @@
+h1{
+    color: rgb(20, 134, 134);
+}
+p a{
+    color: red;
+}
+p em{
+    text-decoration-color: blue;
+    color: blue;
+    text-decoration-line: underline;
+}
+strong{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+h2{
+    color: blue;
+}
+span.especial{
+    color:purple;
+}
+th.especial{
+    color: orange;
+}
+td{
+    color: green;
+}
+table em{
+    color: green;
+}
+table strong{
+    color: orange;
+}
+th{
+    color: red;
+}
+div{
+    color: yellowgreen;
+}
+div a{
+    color: green;
+}
+
+#especial{
+    color: violet;
+}
