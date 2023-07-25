@@ -1,0 +1,27 @@
+.general{
+    margin: 2%;
+    background-color: #c42f7b;
+    display: inline-flex;
+    padding: 2%;
+    align-content:space-evenly;
+    vertical-align: middle;
+}
+.carousel-item img{
+    height: 300px;
+}
+#texto{
+    padding: 3%;
+    color: whitesmoke;
+    text-align: justify;
+    width: 50%;
+}
+ h4{
+    font-family: 'Borel', cursive;
+    color: whitesmoke;
+    text-align: center;
+}
+#carousel{
+    padding: 2%;
+    width: 50%;
+}
+
