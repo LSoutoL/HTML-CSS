@@ -15,8 +15,8 @@
     text-align: justify;
     width: 50%;
 }
- h4{
-    font-family: 'Borel', cursive;
+h4{
+    font-family: 'Borel', cursive; 
     color: whitesmoke;
     text-align: center;
 }
@@ -24,4 +24,62 @@
     padding: 2%;
     width: 50%;
 }
+.super {
+    background-color: #c42f7b;
+    margin: 2%;
+    padding: 2%;
+    display: inline-flex;
+    align-content:space-between;
+    vertical-align: middle;
+    width: 95%;
+}
+.super h4{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.med{
+    margin: 2%;
+    padding: 2%;
+    vertical-align: middle;
+    text-align: justify;
+}
+.produ{
+    margin: 2%;
+    padding: 2%;
+    background-color:  #feb101;
+}
 
+h5{
+    font-family: 'Borel', cursive; 
+    color: whitesmoke;
+}
+.card-body{
+    vertical-align: middle;
+    height: min-content;
+}
+.card{
+    margin: 2%;
+    max-width: 85%; 
+    background-color:  #feb101;
+
+}
+.row{
+    color: whitesmoke;
+}
+#bot{
+    background-color: teal;
+    border-color: teal;
+}
+.otra{
+    margin: 2%;
+    background-color: teal;
+    padding: 2%;
+    width: 50%;
+    color: whitesmoke;
+}
+#bot2{
+    background-color: #feb101;
+}
+.otra a{
+    color: #feb101;
+}
